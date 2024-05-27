@@ -1,0 +1,4 @@
+/dataset/*
+!/dataset/real_world/
+/tmp/*
+/img/*
